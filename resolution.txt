@@ -1,5 +1,6 @@
 My Resolution
-- menguasai Javascript
 - bisa bekerja dengan Git & Github
 - mengerti tentang Npm
+- mengerti tentang WBPack
+- menguasai react.js
 - menjadi seorang Front-end Developer
