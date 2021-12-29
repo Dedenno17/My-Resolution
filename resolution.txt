@@ -1,0 +1,4 @@
+My Resolution
+- menguasai Javascript
+- bisa bekerja dengan Git & Github
+- menjadi seorang Front-end Developer
