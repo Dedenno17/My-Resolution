@@ -1,4 +1,5 @@
 My Resolution
 - menguasai Javascript
 - bisa bekerja dengan Git & Github
+- mengerti tentang Npm
 - menjadi seorang Front-end Developer
